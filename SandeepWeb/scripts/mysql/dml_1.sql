@@ -1,0 +1,1 @@
+insert into auth(email, password) values('sandeepreddygangadi@gmail.com', 'password');
